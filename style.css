@@ -1,0 +1,14 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.jumbotron { 
+    padding-top : 6rem;
+    background-color: #e4e0ff;
+}
+section {
+    padding-top: 6rem;
+}
+
+#skills {
+    background-color: #e4e0ff;
+}
