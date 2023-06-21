@@ -12,3 +12,16 @@ section {
 #skills {
     background-color: #e4e0ff;
 }
+.animation {
+    background-color: transparent;
+}
+
+.animation img{
+    transform: translateY(55px);
+    transition: 1s;
+}
+
+.animation img:hover{
+    transform: translateY(0px);
+    transition: 1s;
+}
