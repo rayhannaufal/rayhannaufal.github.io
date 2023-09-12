@@ -2,7 +2,6 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 .jumbotron { 
-    padding-top : 6rem;
     background-color: #e4e0ff;
 }
 section {
@@ -37,4 +36,8 @@ section {
 .animation:hover img{
     transform: translateY(0px);
     transition: 0.3s;
+}
+
+.jumbotron-page {
+    min-height: 540px;
 }
