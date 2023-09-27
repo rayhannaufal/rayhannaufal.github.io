@@ -1,15 +1,13 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-.jumbotron { 
-    background-color: #e4e0ff;
-}
-section {
-    padding-top: 6rem;
-}
 
 #project {
-    background-color: #e4e0ff;
+    background-color: aliceblue;
+}
+
+section { 
+    padding-top: 6rem;
 }
 
 .animation {
@@ -22,7 +20,7 @@ section {
 }
 .animation:hover .card-text{
     transform: translateY(0px);
-    transition: 0.3s;
+    transition: 1s;
 }
 
 .animation img{
@@ -39,5 +37,9 @@ section {
 }
 
 .jumbotron-page {
-    min-height: 540px;
+    min-height: 720px;
+}
+
+.bum {
+    background-color: white;
 }
